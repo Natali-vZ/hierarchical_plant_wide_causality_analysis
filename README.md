@@ -16,3 +16,6 @@ with a connectivity matrix.
 This code makes use of publically available toolboxes and repositories:
 (1) The Multivariate Granger Causality (MVGC) Toolbox: https://uk.mathworks.com/matlabcentral/fileexchange/78727-the-multivariate-granger-causality-mvgc-toolbox
 (2) IFAC-LoopRank: https://github.com/ProcessMonitoringStellenboschUniversity/IFAC-LoopRank
+
+The main script is "MAIN_Hierarchical", and "Sim_PlantModel_repIDs", "PLANTWIDE_ALL_DATA_SmallerFreqOsc_SmallerExogDist3", and 
+"PLANTWIDE_Connectivity_matrix_FINAL" contain the simulated case study data and process knowledge.
