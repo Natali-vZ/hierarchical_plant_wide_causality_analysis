@@ -137,7 +137,7 @@ x = X;
 [nvars, nobs, ntrials] = size(x);
 
 % IDs for PCs:
-load 'NataliSim_PlantModel_repIDs.mat' % Can use this for up to 8 plant sections.
+load 'Sim_PlantModel_repIDs.mat' % Can use this for up to 8 plant sections.
 allIDs_forReps = allIDs_forPCs;
 
 %% Model order & GC (for default settings):
