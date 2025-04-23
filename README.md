@@ -1,6 +1,6 @@
 # Hierarchical plant-wide causality analysis
 Code for the plant-wide causality map in a  hierarchical approach for causality analysis, as described in:
-(1) MEng thesis: van Zijl, N. (2020). Improving the interpretability of causlity maps for fault identification, Stellenobsch University.
+(1) MEng thesis: van Zijl, N. (2020). Improving the interpretability of causlity maps for fault identification, Stellenbosch University.
 https://scholar.sun.ac.za/bitstream/handle/10019.1/109269/vanzijl_improving_2020.pdf?sequence=1&isAllowed=y
 (2) Journal Paper: van Zijl, N., Bradshaw, S. M., Auret, L., & Louw, T. M. (2021). A Hierarchical Approach to Improve the Interpretability 
 of Causality Maps for Plant-Wide Fault Identification. Minerals, 11(8), 823. https://doi.org/10.3390/min11080823
